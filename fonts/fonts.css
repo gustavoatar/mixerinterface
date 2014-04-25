@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'AvenirMedium';
+    src: url('12_avenir_85_medium___76173-webfont.eot');
+    src: url('12_avenir_85_medium___76173-webfont.eot?#iefix') format('embedded-opentype'),
+         url('12_avenir_85_medium___76173-webfont.woff') format('woff'),
+         url('12_avenir_85_medium___76173-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AvenirHeavy';
+    src: url('12_avenir_85_heavy___08173-webfont.eot');
+    src: url('12_avenir_85_heavy___08173-webfont.eot?#iefix') format('embedded-opentype'),
+         url('12_avenir_85_heavy___08173-webfont.woff') format('woff'),
+         url('12_avenir_85_heavy___08173-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
